@@ -1,7 +1,5 @@
-![Adidas US Sales Dashboard](https://github.com/NoirDOT/Adidas-US-Sales/blob/f219a1f944e2887fc48b287883d0634d22baaac9/image.png?raw=true)
-
 # 📊 Adidas US Sales Dashboard (2021-2022)  
-*A data-driven analysis of Adidas sales performance across product categories and sales channels.*  
+![Adidas US Sales Dashboard](https://github.com/NoirDOT/Adidas-US-Sales/blob/bc10ec5b5e8baf34dde45449caf73dcc4aaf048c/Adidas_Logo.svg.png)
 
 ---
 

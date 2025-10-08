@@ -1,11 +1,13 @@
-# 🏀👟📊 Adidas US Sales Dashboard (2021-2022)
-![Adidas](https://github.com/NoirDOT/Adidas-US-Sales/blob/main/Adidas)
+# 🏀👟📊 Adidas US Sales Dashboard (2020-2021)
+![Adidas Sales Dashboard](https://github.com/NoirDOT/Adidas-US-Sales/blob/da531f9120c488c572c43f68bc7353fcd6485ec5/Adidas)
+
 ---
-*A data-driven analysis of Adidas sales performance between 2021 and 2022 across product categories, sales channels and regions in the United States .*  
+*A comprehensive analysis of Adidas sales performance revealing $899.90M in total sales across 2.48M units, with detailed insights into product categories, sales channels, and geographic regions across the United States of America.*  
+
 ---
+
 *Table of Contents*
 - [Project Background](#project-background)
-- [Data Structure](#data-structure)
 - [Executive Summary](#executive-summary)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
@@ -14,92 +16,98 @@
 
 ## Project Background
 
-This project analyzes a comprehensive dataset of Adidas US sales from 2021-2022, capturing detailed information on product categories, sales methods, regional performance, and temporal trends.
+This project analyzes Adidas US sales data from 2020-2021, examining $899.90M in total sales across 2.48 million units. The analysis covers performance across product categories, sales methods, regional distribution, and temporal trends to drive strategic business decisions.
 
 **Analysis Focus Areas:**
-- **Product Performance**: Top- and low-performing product categories
-- **Sales Channel Effectiveness**: Online vs. retail vs. wholesale performance  
-- **Regional Performance**: Geographic sales patterns and high-performing markets
-- **Seasonal Trends**: Peak sales periods and seasonal patterns
-- **Category Preferences**: Apparel vs. footwear and men's vs. women's segments
-
-## Data Structure
-
-The Adidas US Sales database contains transactional data with key dimensions:
-
-| Dimension | Components |
-|-----------|------------|
-| **Product Categories** | Men's/Women's Apparel, Athletic/Street Footwear |
-| **Sales Methods** | Online, Retail, Wholesale |
-| **Time Periods** | Monthly data from 2020-2022 |
-| **Geographic Regions** | Sales performance across US states |
-| **Financial Metrics** | Revenue, units sold, pricing data |
+- **Sales Performance**: $899.90M total sales with $332.13M in profit
+- **Product Category Analysis**: Men's vs Women's categories across apparel and footwear
+- **Regional Performance**: Sales distribution across Midwest, Northeast, South, Southeast, West
+- **Channel Effectiveness**: Online, In-store, and Outlet performance comparison
+- **Temporal Trends**: Monthly performance peaks and seasonal patterns
 
 ## Executive Summary
 
 ### 📈 Performance Overview
 
-**Channel Dominance:** Online sales emerged as primary revenue driver, significantly outperforming traditional channels
+**Total Sales Performance**: $899.90M in revenue with $332.13M profit
+**Volume Metrics**: 2.48 million units sold nationwide
+**Regional Dominance**: West and South regions lead in sales performance
+**Channel Performance**: Online sales show strongest growth trajectory
+**Product Leadership**: Men's Street Footwear emerges as top category
 
-**Category Leadership:** Men's categories (Athletic Footwear & Apparel) lead in sales performance
+### 🎯 Key Metrics from Dashboard
 
-**Geographic Concentration:** NY, CA, TX represent top 3 revenue-generating states
-
-**Seasonal Peaks:** Q3 (Back-to-School) and Q4 (Holiday) show 25-30% higher sales
-
-### 🎯 Key Metrics
-
-| Metric | Finding |
-|--------|---------|
-| **Online Sales Peak** | ~$6M revenue |
-| **Top Categories** | Men's Athletic Footwear > Men's Apparel |
-| **Regional Contribution** | Top 3 states = 45% of national revenue |
-| **YoY Growth (2020-2021)** | 15% revenue increase |
-
+| Metric | Value | Insight |
+|--------|---------|----------|
+| **Total Sales** | $899.90M | Primary revenue driver |
+| **Total Profit** | $332.13M | 36.9% profit margin |
+| **Units Sold** | 2.48M | Volume performance |
+| **Peak Months** | Aug, Sep, Jan | Seasonal high performers |
+| **Top Product** | Men's Street Footwear | $93,320 regional leader |
+---
 ## Key Insights
+![Dashboard](https://github.com/NoirDOT/Adidas-US-Sales/blob/da531f9120c488c572c43f68bc7353fcd6485ec5/New%20Adidas%20Dashboard.png)
+---
+### 1. 🚀 **Sales Channel Performance Disparity**
+- **Online sales** demonstrate strongest growth and profitability margins
+- **In-store channels** show consistent performance but lower margins
+- **Outlet stores** contribute to volume but with reduced profitability
+- Clear correlation between channel type and profit margins observed
 
-### 1. 🚀 **Channel Strategy Revolution**
-Online sales account for over 60% of total sales, showing a permanent e-commerce shift post-COVID. Traditional retail shows declining trends while wholesale maintains steady but modest performance.
+### 2. 🗺️ **Geographic Sales Concentration**
+- **Midwest**: Men's Street Footwear dominates ($93,320)
+- **South**: Men's Athletic Footwear leads ($53,525)
+- **Southeast**: Women's Apparel shows strength ($23,177)
+- **West**: Women's Street Footwear performs well ($92,945)
+- Regional preferences indicate targeted marketing opportunities
 
-### 2. 🗺️ **Geographic Concentration**
-Top 3 states (NY, CA, TX) contribute approximately 45% of total national revenue. Urban centers show significantly higher per-capita sales compared to rural markets.
+### 3. 👕 **Product Category Hierarchy**
+- **Men's Street Footwear**: Top performer in multiple regions
+- **Men's Athletic Footwear**: Strong secondary category
+- **Women's Categories**: Show consistent but lower performance
+- **Men's Apparel**: Significant contributor with $306,683 in key markets
 
-### 3. 👕 **Product Category Dynamics**
-Men's categories consistently outperform women's categories by 25-30% margin. Athletic footwear represents the most profitable and fastest-growing segment, while street footwear shows potential for growth in urban markets.
+### 4. 📅 **Seasonal Performance Patterns**
+- **Peak Months**: August, September, January show highest sales
+- **Consistent Performers**: July, April, May maintain strong numbers
+- **Seasonal Trends**: Back-to-school and holiday impacts clearly visible
+- Monthly distribution indicates strategic inventory planning opportunities
 
-### 4. 📅 **Seasonal Optimization Opportunities**
-Clear Q3-Q4 peak pattern indicates opportunity for inventory and marketing optimization. July and December represent the highest revenue months, while January and February show the lowest performance.
-
-### 5. 💰 **Pricing & Promotion Effectiveness**
-Premium products in men's athletic categories show strongest margin performance. Online channel demonstrates highest responsiveness to promotional activities with measurable impact on revenue lift.
+### 5. 💰 **Profitability Analysis**
+- **Total Profit**: $332.13M from $899.90M sales
+- **Margin Management**: 36.9% overall profit margin
+- **Channel Margins**: Online shows most favorable profit ratios
+- **Regional Variations**: Profitability differs across geographic segments
 
 ## Recommendations
 
-### 1. **Digital Transformation Acceleration**
-> **Double down on e-commerce investments** by enhancing the mobile shopping experience, implementing AI-powered personalization, and expanding digital payment options. Consider developing a dedicated app to increase customer engagement and repeat purchases.
+### 1. **Channel Optimization Strategy**
+> **Accelerate online investment** by enhancing digital platforms and mobile experience. Re-evaluate outlet store profitability and consider conversion to higher-margin retail formats.
 
-### 2. **Regional Market Penetration**
-> **Develop targeted marketing campaigns** for high-performing states (NY, CA, TX) while implementing market development strategies for underpenetrated regions. Consider pop-up stores and localized collaborations in urban centers to strengthen brand presence.
+### 2. **Regional Product Alignment**
+> **Customize product assortments** by region based on performance data. Increase Men's Street Footwear inventory in Midwest, Men's Athletic Footwear in South, and Women's Street Footwear in West.
 
-### 3. **Product Portfolio Optimization**
-> **Increase investment in men's athletic categories** while developing strategic initiatives to boost women's category performance. Consider launching women-specific marketing campaigns and product collaborations to address the performance gap.
+### 3. **Seasonal Inventory Management**
+> **Implement proactive inventory planning** for peak months (Aug-Sep, Jan). Develop targeted marketing campaigns 4-6 weeks before high-performance periods to maximize sales.
 
-### 4. **Seasonal Strategy Enhancement**
-> **Implement pre-season inventory planning** for Q3 and Q4 peaks, with targeted marketing campaigns launching 4-6 weeks before peak seasons. Develop off-season promotional strategies for Q1 to maintain revenue consistency.
+### 4. **Margin Enhancement Initiative**
+> **Focus on high-margin product categories** and channels. Analyze cost structure of lower-performing regions and channels to identify improvement opportunities.
 
-### 5. **Data-Driven Inventory Management**
-> **Leverage sales analytics** to optimize inventory levels across channels and regions. Implement predictive analytics for demand forecasting to reduce stockouts during peak periods and minimize overstock during slower seasons.
+### 5. **Women's Category Development**
+> **Launch strategic initiatives** to boost Women's Apparel and Footwear performance. Consider exclusive collections and targeted marketing to close the performance gap with men's categories.
 
-### 6. **Customer Experience Innovation**
-> **Introduce a customization program** allowing customers to design personalized footwear and apparel, potentially creating a new revenue stream while increasing brand engagement. Consider limited-edition releases to drive urgency and exclusivity.
+### 6. **Data-Driven Regional Strategy**
+> **Develop micro-regional analysis** to identify specific city performance (Seattle, Los Angeles, Miami, etc.). Create hyper-localized marketing and inventory strategies.
 
-### 7. **Omnichannel Integration**
-> **Develop seamless integration** between online and physical retail experiences, including buy-online-pickup-in-store (BOPIS) capabilities, unified loyalty programs, and consistent inventory visibility across all channels.
+### 7. **Profitability Monitoring System**
+> **Implement real-time margin tracking** across all channels and regions. Establish alerts for margin compression and automated reporting for performance trends.
 
 ---
 
-**Last updated:** October 2025  
-**Data Period:** 2021-2022 US Sales  
-**Tools Used:** Microsoft Excel
+**Last updated**: December 2024  
+**Data Period**: 2020-2021 US Sales  
+**Total Sales**: $899.90 Million  
+**Total Profit**: $332.13 Million  
+**Tools Used**: Microsoft Excel, Data Visualization
 
-> 💡 *For detailed analysis files and interactive dashboard, check the repository files section.*
+> 💡 *For detailed analysis and interactive dashboard exploration, check the repository files section.*

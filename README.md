@@ -16,7 +16,7 @@
 
 ## Project Background
 
-This project analyzes Adidas US sales data from 2020-2021, examining $899.90M in total sales across 2.48 million units. The analysis covers performance across product categories, sales methods, regional distribution, and temporal trends to drive strategic business decisions.
+This project examines Adidas US sales data from 2021-2022, capturing transaction details including dates, product categories, sales methods, regional data, quantities, and pricing. The objective is to evaluate sales performance and consumer purchasing behavior by analyzing critical metrics such as product category popularity, regional demand, peak sales periods, and order patterns across different channels and product lines. Through the development of interactive dashboards, this analysis seeks to provide actionable insights to help optimize sales strategies, improve inventory management, and enhance overall business performance for Adidas.
 
 **Analysis Focus Areas:**
 - **Sales Performance**: $899.90M total sales with $332.13M in profit
@@ -43,7 +43,7 @@ This project analyzes Adidas US sales data from 2020-2021, examining $899.90M in
 | **Total Profit** | $332.13M | 36.9% profit margin |
 | **Units Sold** | 2.48M | Volume performance |
 | **Peak Months** | Aug, Sep, Jan | Seasonal high performers |
-| **Top Product** | Men's Street Footwear | $93,320 regional leader |
+| **Top Product** | Men's Street Footwear | $208,826,244 |
 ---
 ## Key Insights
 ![Dashboard](https://github.com/NoirDOT/Adidas-US-Sales/blob/da531f9120c488c572c43f68bc7353fcd6485ec5/New%20Adidas%20Dashboard.png)
@@ -55,17 +55,18 @@ This project analyzes Adidas US sales data from 2020-2021, examining $899.90M in
 - Clear correlation between channel type and profit margins observed
 
 ### 2. 🗺️ **Geographic Sales Concentration**
-- **Midwest**: Men's Street Footwear dominates ($93,320)
-- **South**: Men's Athletic Footwear leads ($53,525)
-- **Southeast**: Women's Apparel shows strength ($23,177)
-- **West**: Women's Street Footwear performs well ($92,945)
+- **Midwest**: Men's Street Footwear dominates ($38,322,810.00)
+- **South**: Women's Apparel takes pole position with ($29,607,187.00)
+- **Southeast**: Men's Street Footwear dominates ($36,019,236.00)
+- **West**: Continuing the trend, Men's street footwear with ($55,014,613.00)
 - Regional preferences indicate targeted marketing opportunities
 
 ### 3. 👕 **Product Category Hierarchy**
 - **Men's Street Footwear**: Top performer in multiple regions
+- **Women's Apparel**: Consistently performs in multiple regions
 - **Men's Athletic Footwear**: Strong secondary category
-- **Women's Categories**: Show consistent but lower performance
-- **Men's Apparel**: Significant contributor with $306,683 in key markets
+- **Other Women's Categories**: Show consistent but lower performance
+- **Men's Apparel**: sold the least quantity (306,683)
 
 ### 4. 📅 **Seasonal Performance Patterns**
 - **Peak Months**: August, September, January show highest sales
@@ -104,10 +105,10 @@ This project analyzes Adidas US sales data from 2020-2021, examining $899.90M in
 
 ---
 
-**Last updated**: December 2024  
+**Last updated**: October 2025.  
 **Data Period**: 2020-2021 US Sales  
 **Total Sales**: $899.90 Million  
 **Total Profit**: $332.13 Million  
-**Tools Used**: Microsoft Excel, Data Visualization
+**Tools Used**: Microsoft Excel
 
 > 💡 *For detailed analysis and interactive dashboard exploration, check the repository files section.*
